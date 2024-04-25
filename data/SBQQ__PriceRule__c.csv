@@ -1,5 +1,5 @@
 Guid,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ConfiguratorEvaluationEvent__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupObject__c,SBQQ__TargetObject__c
-ca393b25-375a-4a74-9aa5-5854d0d29eb0,Test Rule,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
+ca393b25-375a-4a74-9aa5-5854d0d29eb0,Test,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Calculator
 bd6ab6f9-0631-4dec-a126-5e78c43694ae,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
 8dbb8adf-75d3-4334-b718-dab6fd0ac88a,Set Quantity for VirusScan Mac,false,#N/A,All,Edit,Before Calculate,#N/A,#N/A,Configurator
 b470ce8c-c18d-4e6d-a155-a0e62a0ac44d,VC_TEST2,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
